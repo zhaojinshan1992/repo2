@@ -14,6 +14,7 @@ public class FirstClass {
 
 
    public void save(){
-       System.out.println(1231);
+       System.out.println(12311);
+       System.out.println(4131);
    }
 }
